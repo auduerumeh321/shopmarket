@@ -1,0 +1,37 @@
+package za.co.shoprite.people;
+
+import java.util.Scanner;
+
+
+
+public class Customer extend Perosn{
+
+private long phoneNumber;
+private int age;
+private Scanner scan;
+
+
+
+public void setPhonenumber(long phoneNumber);
+
+this.phoneNumber=phoneNumber;
+
+}
+
+pulic long getphoneNumber();
+
+return phoneNumber;
+
+}
+
+
+
+public double displayCash(){
+return  "how much is your cash";   
+
+
+
+}
+
+
+}
